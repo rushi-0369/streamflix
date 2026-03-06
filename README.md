@@ -9,6 +9,27 @@ https://streamflix-virid-ten.vercel.app
 
 ---
 
+## 📸 Preview
+
+<p align="center">
+  <img src="./screenshots/home.png" width="80%" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/player.png" width="80%" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/movies.png" width="80%" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/footer.png" width="80%" />
+</p>
+
+
+---
+
 ## ✨ Features
 
 * Browse **Popular, Now Playing, Top Rated, and Upcoming movies**
